@@ -14,7 +14,7 @@ Para tornar a implemetação da aplicação mais simples foi utilizado Express.j
 ## Instalação
 
 - Garanta que você esteja no caminho ../dc-platform/parte-1;
-- Execute npm install para instalar as dependencias do projeto:
+- Execute npm install para instalar as dependências do projeto:
   ```
   $ npm install
   ```
