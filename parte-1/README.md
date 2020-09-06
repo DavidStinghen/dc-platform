@@ -7,7 +7,7 @@ Projeto criado para resolução do seguinte problema:
 Para solução do problema foi criado uma api no estilo REST com a tecnologia Node.js onde a mesma é executado em um formato de cluster, utilizando a lib nativa do Node.js chamada Cluster. A api recebe uma requisição no formado JSON e de tamanho variado e a rejeita caso seu corpo seja o mesmo de alguma outra requisição executada em um determinado espaço de tempo.
 Para tornar a implemetação da aplicação mais simples foi utilizado Express.js para criação do app, Sequeliza para interações com o banco de dados e a lib Jest para realização de testes.
 
-## Pré instalação
+## Pré-instalação
 
 - [Docker]{https://docs.docker.com/install/}
 
