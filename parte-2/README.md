@@ -7,7 +7,7 @@ Já sabemos que o dump de origem não tem uma boa confiabilidade, pois encontram
 Como não é interessante atualizar nossa base com dados ruins, filtramos apenas as URLs que retornam status 200.Para diminuir a quantidade de requests necessárias para validar as URLs, decidimos limitar a quantidade de imagens por produto em até 3.
 O seu objetivo é criar um programa que gera o dump final no menor tempo possível e com o mínimo de requests desnecessárias (já que existe um custo fixo por requisição)".
 
-Para solução do problema foi cria uma aplicação em python que recebe um dump e filtra se resultado em um novo dump.
+Para solução do problema foi criada uma aplicação em python que recebe um dump e filtra seu resultado em um novo dump.
 
 ## Pré-instalação
 
