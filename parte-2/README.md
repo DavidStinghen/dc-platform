@@ -1,4 +1,4 @@
-# DC PLATFORM Parte 1/2
+# DC PLATFORM Parte 2/2
 
 Projeto criado para resolução do seguinte problema:
 
